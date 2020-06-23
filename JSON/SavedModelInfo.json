@@ -1,0 +1,1989 @@
+{
+    "Arcanut (Processed)": [
+        0.06506522095884763,
+        [
+            "./Saved_Model/Arcanut (Processed)_SVR.pkl",
+            0.06959864696678783
+        ],
+        [
+            "./Saved_Model/Arcanut (Processed)_POLY.pkl",
+            0.09652787302466731
+        ],
+        [
+            "./Saved_Model/Arcanut (Processed)_NN.pkl",
+            0.05713861957188639
+        ],
+        [
+            "./Saved_Model/Arcanut (Processed)_XGB.pkl",
+            0.004601223190796602
+        ],
+        [
+            "./Saved_Model/Arcanut (Processed)_GBM.pkl",
+            0.09745974204010002
+        ]
+    ],
+    "Arecanut": [
+        2.1307276592234916,
+        [
+            "./Saved_Model/Arecanut_XGB.pkl",
+            0.6931611647149468
+        ],
+        [
+            "./Saved_Model/Arecanut_GBM.pkl",
+            0.48983587011346813
+        ]
+    ],
+    "Arhar&Tur": [
+        0.11459426589699964,
+        [
+            "./Saved_Model/Arhar&Tur_SVR.pkl",
+            0.12219456711977739
+        ],
+        [
+            "./Saved_Model/Arhar&Tur_POLY.pkl",
+            0.1593877891021745
+        ],
+        [
+            "./Saved_Model/Arhar&Tur_NN.pkl",
+            0.12291668059931114
+        ],
+        [
+            "./Saved_Model/Arhar&Tur_XGB.pkl",
+            0.08454803483406396
+        ],
+        [
+            "./Saved_Model/Arhar&Tur_GBM.pkl",
+            0.0839242578296712
+        ]
+    ],
+    "Atcanut (Raw)": [
+        1.491927375214443,
+        [
+            "./Saved_Model/Atcanut (Raw)_NN.pkl",
+            1.4702091930355579
+        ],
+        [
+            "./Saved_Model/Atcanut (Raw)_XGB.pkl",
+            0.07109169267924348
+        ]
+    ],
+    "Bajra": [
+        0.19335508925109937,
+        [
+            "./Saved_Model/Bajra_SVR.pkl",
+            0.18999211243354508
+        ],
+        [
+            "./Saved_Model/Bajra_POLY.pkl",
+            0.29161759011951216
+        ],
+        [
+            "./Saved_Model/Bajra_NN.pkl",
+            0.19917349790300923
+        ],
+        [
+            "./Saved_Model/Bajra_XGB.pkl",
+            0.1549012485410374
+        ],
+        [
+            "./Saved_Model/Bajra_GBM.pkl",
+            0.13109099725839302
+        ]
+    ],
+    "Banana": [
+        119.13743164141383,
+        [
+            "./Saved_Model/Banana_XGB.pkl",
+            74.77869722327424
+        ],
+        [
+            "./Saved_Model/Banana_GBM.pkl",
+            74.10302884373513
+        ]
+    ],
+    "Barley": [
+        0.20525680884676772,
+        [
+            "./Saved_Model/Barley_SVR.pkl",
+            0.2536503806106959
+        ],
+        [
+            "./Saved_Model/Barley_POLY.pkl",
+            0.3476090172692578
+        ],
+        [
+            "./Saved_Model/Barley_NN.pkl",
+            0.2103230557796752
+        ],
+        [
+            "./Saved_Model/Barley_XGB.pkl",
+            0.10958766087884929
+        ],
+        [
+            "./Saved_Model/Barley_GBM.pkl",
+            0.10511392969536058
+        ]
+    ],
+    "Bean": [
+        0.006574402333187264,
+        [
+            "./Saved_Model/Bean_SVR.pkl",
+            0.0018550557477893163
+        ],
+        [
+            "./Saved_Model/Bean_POLY.pkl",
+            0.0029256563503094624
+        ],
+        [
+            "./Saved_Model/Bean_NN.pkl",
+            0.024532464733944014
+        ],
+        [
+            "./Saved_Model/Bean_XGB.pkl",
+            0.0016037372678717556
+        ],
+        [
+            "./Saved_Model/Bean_GBM.pkl",
+            0.001955097566021773
+        ]
+    ],
+    "Beans & Mutter(Vegetable)": [
+        1.8145546028237405,
+        [
+            "./Saved_Model/Beans & Mutter(Vegetable)_SVR.pkl",
+            1.7223459268761898
+        ],
+        [
+            "./Saved_Model/Beans & Mutter(Vegetable)_XGB.pkl",
+            0.9768797546975106
+        ]
+    ],
+    "Bhindi": [
+        26.197363053532474,
+        [
+            "./Saved_Model/Bhindi_SVR.pkl",
+            7.886289383930001
+        ],
+        [
+            "./Saved_Model/Bhindi_NN.pkl",
+            3.822137755226759
+        ],
+        [
+            "./Saved_Model/Bhindi_XGB.pkl",
+            3.9684976580154263
+        ],
+        [
+            "./Saved_Model/Bhindi_GBM.pkl",
+            5.188935220643697
+        ]
+    ],
+    "Bitter Gourd": [
+        0.37920207387338223,
+        [
+            "./Saved_Model/Bitter Gourd_SVR.pkl",
+            0.18008454029081777
+        ],
+        [
+            "./Saved_Model/Bitter Gourd_POLY.pkl",
+            0.7379514439637629
+        ],
+        [
+            "./Saved_Model/Bitter Gourd_NN.pkl",
+            0.24539273194787156
+        ],
+        [
+            "./Saved_Model/Bitter Gourd_XGB.pkl",
+            0.12342125335055698
+        ],
+        [
+            "./Saved_Model/Bitter Gourd_GBM.pkl",
+            0.6091603998139021
+        ]
+    ],
+    "Black pepper": [
+        0.5898631847257255,
+        [
+            "./Saved_Model/Black pepper_SVR.pkl",
+            0.8196772003874756
+        ],
+        [
+            "./Saved_Model/Black pepper_NN.pkl",
+            0.8141078160403817
+        ],
+        [
+            "./Saved_Model/Black pepper_XGB.pkl",
+            0.14544005030845247
+        ],
+        [
+            "./Saved_Model/Black pepper_GBM.pkl",
+            0.1561529685059431
+        ]
+    ],
+    "Blackgram": [
+        0.017526208688452293,
+        [
+            "./Saved_Model/Blackgram_SVR.pkl",
+            0.014514158760248422
+        ],
+        [
+            "./Saved_Model/Blackgram_POLY.pkl",
+            0.011965336982579983
+        ],
+        [
+            "./Saved_Model/Blackgram_NN.pkl",
+            0.027093195561359917
+        ],
+        [
+            "./Saved_Model/Blackgram_XGB.pkl",
+            0.021163947957535578
+        ],
+        [
+            "./Saved_Model/Blackgram_GBM.pkl",
+            0.012894404180537573
+        ]
+    ],
+    "Bottle Gourd": [
+        0.11728752613986457,
+        [
+            "./Saved_Model/Bottle Gourd_SVR.pkl",
+            0.010578695151301503
+        ],
+        [
+            "./Saved_Model/Bottle Gourd_POLY.pkl",
+            0.001017619145419644
+        ],
+        [
+            "./Saved_Model/Bottle Gourd_NN.pkl",
+            0.1300875957656301
+        ],
+        [
+            "./Saved_Model/Bottle Gourd_XGB.pkl",
+            0.0009155057227539389
+        ],
+        [
+            "./Saved_Model/Bottle Gourd_GBM.pkl",
+            0.44383821491421765
+        ]
+    ],
+    "Brinjal": [
+        22.969597788216962,
+        [
+            "./Saved_Model/Brinjal_SVR.pkl",
+            19.828687067997496
+        ],
+        [
+            "./Saved_Model/Brinjal_XGB.pkl",
+            13.878752638370258
+        ],
+        [
+            "./Saved_Model/Brinjal_GBM.pkl",
+            15.973809659142647
+        ]
+    ],
+    "Cabbage": [
+        58.20842328344522,
+        [
+            "./Saved_Model/Cabbage_SVR.pkl",
+            38.237082242799474
+        ],
+        [
+            "./Saved_Model/Cabbage_POLY.pkl",
+            39.506569050573376
+        ],
+        [
+            "./Saved_Model/Cabbage_XGB.pkl",
+            40.46015813482341
+        ]
+    ],
+    "Cardamom": [
+        0.11147740146078555,
+        [
+            "./Saved_Model/Cardamom_SVR.pkl",
+            0.1145112231598929
+        ],
+        [
+            "./Saved_Model/Cardamom_POLY.pkl",
+            0.12114855437826945
+        ],
+        [
+            "./Saved_Model/Cardamom_NN.pkl",
+            0.10930126698388257
+        ],
+        [
+            "./Saved_Model/Cardamom_XGB.pkl",
+            0.1120924529686291
+        ],
+        [
+            "./Saved_Model/Cardamom_GBM.pkl",
+            0.10033350981325369
+        ]
+    ],
+    "Carrot": [
+        45218.55279199765,
+        [
+            "./Saved_Model/Carrot_SVR.pkl",
+            0.029336409687177267
+        ],
+        [
+            "./Saved_Model/Carrot_NN.pkl",
+            0.11526525389754508
+        ],
+        [
+            "./Saved_Model/Carrot_XGB.pkl",
+            0.21140599755341533
+        ],
+        [
+            "./Saved_Model/Carrot_GBM.pkl",
+            10.414237662222735
+        ]
+    ],
+    "Cashewnut Processed": [
+        0.013462307556657827,
+        [
+            "./Saved_Model/Cashewnut Processed_SVR.pkl",
+            0.0026451111389948503
+        ],
+        [
+            "./Saved_Model/Cashewnut Processed_POLY.pkl",
+            0.027878191202753255
+        ],
+        [
+            "./Saved_Model/Cashewnut Processed_NN.pkl",
+            0.03287661666795219
+        ],
+        [
+            "./Saved_Model/Cashewnut Processed_XGB.pkl",
+            0.0012864032250342672
+        ],
+        [
+            "./Saved_Model/Cashewnut Processed_GBM.pkl",
+            0.0026252155485545813
+        ]
+    ],
+    "Cashewnut Raw": [
+        0.08108355494738674,
+        [
+            "./Saved_Model/Cashewnut Raw_SVR.pkl",
+            0.0675074784946414
+        ],
+        [
+            "./Saved_Model/Cashewnut Raw_POLY.pkl",
+            0.0702214764457413
+        ],
+        [
+            "./Saved_Model/Cashewnut Raw_NN.pkl",
+            0.11580250491645083
+        ],
+        [
+            "./Saved_Model/Cashewnut Raw_XGB.pkl",
+            0.08758053597655202
+        ],
+        [
+            "./Saved_Model/Cashewnut Raw_GBM.pkl",
+            0.06430577890354809
+        ]
+    ],
+    "Cashewnut": [
+        6114.4184549143265,
+        [
+            "./Saved_Model/Cashewnut_SVR.pkl",
+            0.04135886380248079
+        ],
+        [
+            "./Saved_Model/Cashewnut_POLY.pkl",
+            379.9853941889726
+        ],
+        [
+            "./Saved_Model/Cashewnut_NN.pkl",
+            216.02824663092247
+        ],
+        [
+            "./Saved_Model/Cashewnut_XGB.pkl",
+            0.036188194698349586
+        ]
+    ],
+    "Castor seed": [
+        0.22804997615104777,
+        [
+            "./Saved_Model/Castor seed_SVR.pkl",
+            0.2222522974702238
+        ],
+        [
+            "./Saved_Model/Castor seed_POLY.pkl",
+            0.28907384862628127
+        ],
+        [
+            "./Saved_Model/Castor seed_NN.pkl",
+            0.23797996624019746
+        ],
+        [
+            "./Saved_Model/Castor seed_XGB.pkl",
+            0.20874632983922325
+        ],
+        [
+            "./Saved_Model/Castor seed_GBM.pkl",
+            0.1821974385793131
+        ]
+    ],
+    "Cauliflower": [
+        7.358875188291313,
+        [
+            "./Saved_Model/Cauliflower_SVR.pkl",
+            7.254640393968746
+        ],
+        [
+            "./Saved_Model/Cauliflower_NN.pkl",
+            6.1316156664534205
+        ],
+        [
+            "./Saved_Model/Cauliflower_XGB.pkl",
+            7.290712066500811
+        ],
+        [
+            "./Saved_Model/Cauliflower_GBM.pkl",
+            5.509014320805895
+        ]
+    ],
+    "Citrus Fruit": [
+        10.537616707357733,
+        [
+            "./Saved_Model/Citrus Fruit_GBM.pkl",
+            8.255756507390844
+        ]
+    ],
+    "Coconut": [
+        20776644.19665897,
+        [
+            "./Saved_Model/Coconut_XGB.pkl",
+            7465623.74230115
+        ],
+        [
+            "./Saved_Model/Coconut_GBM.pkl",
+            7470696.402305189
+        ]
+    ],
+    "Coffee": [
+        0.027308009528586575,
+        [
+            "./Saved_Model/Coffee_SVR.pkl",
+            0.043306148164949904
+        ],
+        [
+            "./Saved_Model/Coffee_POLY.pkl",
+            0.06553905738241995
+        ],
+        [
+            "./Saved_Model/Coffee_NN.pkl",
+            0.0005279704726061677
+        ],
+        [
+            "./Saved_Model/Coffee_XGB.pkl",
+            0.01971224048791586
+        ],
+        [
+            "./Saved_Model/Coffee_GBM.pkl",
+            0.007454631135041
+        ]
+    ],
+    "Colocosia": [
+        0.0031369474809035064,
+        [
+            "./Saved_Model/Colocosia_SVR.pkl",
+            4.8927450320444895e-05
+        ],
+        [
+            "./Saved_Model/Colocosia_POLY.pkl",
+            0.0002896022287913739
+        ],
+        [
+            "./Saved_Model/Colocosia_NN.pkl",
+            0.015090515339676458
+        ],
+        [
+            "./Saved_Model/Colocosia_XGB.pkl",
+            0.0001940519462887688
+        ],
+        [
+            "./Saved_Model/Colocosia_GBM.pkl",
+            6.164043944048606e-05
+        ]
+    ],
+    "Cond-spcs other": [
+        0.1498658860649953,
+        [
+            "./Saved_Model/Cond-spcs other_SVR.pkl",
+            0.18148515809328833
+        ],
+        [
+            "./Saved_Model/Cond-spcs other_POLY.pkl",
+            0.18910602179961689
+        ],
+        [
+            "./Saved_Model/Cond-spcs other_NN.pkl",
+            0.16759553039025457
+        ],
+        [
+            "./Saved_Model/Cond-spcs other_XGB.pkl",
+            0.06651253148882302
+        ],
+        [
+            "./Saved_Model/Cond-spcs other_GBM.pkl",
+            0.14463018855299367
+        ]
+    ],
+    "Coriander": [
+        0.0401442918848174,
+        [
+            "./Saved_Model/Coriander_SVR.pkl",
+            0.042805886439643684
+        ],
+        [
+            "./Saved_Model/Coriander_POLY.pkl",
+            0.054637250927771684
+        ],
+        [
+            "./Saved_Model/Coriander_NN.pkl",
+            0.04674961005294675
+        ],
+        [
+            "./Saved_Model/Coriander_XGB.pkl",
+            0.02779182599130395
+        ],
+        [
+            "./Saved_Model/Coriander_GBM.pkl",
+            0.02873688601242091
+        ]
+    ],
+    "Cotton(lint)": [
+        12.73540396605163,
+        [
+            "./Saved_Model/Cotton(lint)_XGB.pkl",
+            4.891967886386158
+        ],
+        [
+            "./Saved_Model/Cotton(lint)_GBM.pkl",
+            4.487250420901544
+        ]
+    ],
+    "Cowpea(Lobia)": [
+        0.053155815509901436,
+        [
+            "./Saved_Model/Cowpea(Lobia)_SVR.pkl",
+            0.05315282020479009
+        ],
+        [
+            "./Saved_Model/Cowpea(Lobia)_POLY.pkl",
+            0.05731426217991148
+        ],
+        [
+            "./Saved_Model/Cowpea(Lobia)_NN.pkl",
+            0.06555570365286442
+        ],
+        [
+            "./Saved_Model/Cowpea(Lobia)_XGB.pkl",
+            0.03871418057811005
+        ],
+        [
+            "./Saved_Model/Cowpea(Lobia)_GBM.pkl",
+            0.05104211093383117
+        ]
+    ],
+    "Drum Stick": [
+        0.11993141303115726,
+        [
+            "./Saved_Model/Drum Stick_SVR.pkl",
+            0.08056311951318491
+        ],
+        [
+            "./Saved_Model/Drum Stick_POLY.pkl",
+            0.14033477477153117
+        ],
+        [
+            "./Saved_Model/Drum Stick_NN.pkl",
+            0.144627783729575
+        ],
+        [
+            "./Saved_Model/Drum Stick_XGB.pkl",
+            0.09480163175854016
+        ],
+        [
+            "./Saved_Model/Drum Stick_GBM.pkl",
+            0.13932975538295514
+        ]
+    ],
+    "Dry chillies": [
+        1.1263241797343277,
+        [
+            "./Saved_Model/Dry chillies_XGB.pkl",
+            0.7559987788754323
+        ],
+        [
+            "./Saved_Model/Dry chillies_GBM.pkl",
+            0.6659573461545766
+        ]
+    ],
+    "Dry ginger": [
+        13.974416707765736,
+        [
+            "./Saved_Model/Dry ginger_XGB.pkl",
+            1.9078215155400358
+        ],
+        [
+            "./Saved_Model/Dry ginger_GBM.pkl",
+            1.9396968760583668
+        ]
+    ],
+    "Garlic": [
+        1.5836608209798886,
+        [
+            "./Saved_Model/Garlic_NN.pkl",
+            1.557191864255392
+        ],
+        [
+            "./Saved_Model/Garlic_XGB.pkl",
+            0.8305012485613888
+        ],
+        [
+            "./Saved_Model/Garlic_GBM.pkl",
+            0.8358505136088251
+        ]
+    ],
+    "Ginger": [
+        6.635567669713413,
+        [
+            "./Saved_Model/Ginger_POLY.pkl",
+            5.655854106700579
+        ],
+        [
+            "./Saved_Model/Ginger_XGB.pkl",
+            4.320348643681274
+        ]
+    ],
+    "Gram": [
+        0.07584384735583183,
+        [
+            "./Saved_Model/Gram_SVR.pkl",
+            0.08271046658224288
+        ],
+        [
+            "./Saved_Model/Gram_POLY.pkl",
+            0.1110112391514003
+        ],
+        [
+            "./Saved_Model/Gram_NN.pkl",
+            0.08523926376362073
+        ],
+        [
+            "./Saved_Model/Gram_XGB.pkl",
+            0.04850495729075697
+        ],
+        [
+            "./Saved_Model/Gram_GBM.pkl",
+            0.051753309991138224
+        ]
+    ],
+    "Grapes": [
+        46.475722430237454,
+        [
+            "./Saved_Model/Grapes_SVR.pkl",
+            29.05676042152447
+        ],
+        [
+            "./Saved_Model/Grapes_GBM.pkl",
+            37.57993215724785
+        ]
+    ],
+    "Groundnut": [
+        0.16745062077673212,
+        [
+            "./Saved_Model/Groundnut_SVR.pkl",
+            0.1773477558052447
+        ],
+        [
+            "./Saved_Model/Groundnut_POLY.pkl",
+            0.24474225662594795
+        ],
+        [
+            "./Saved_Model/Groundnut_NN.pkl",
+            0.18205773635336367
+        ],
+        [
+            "./Saved_Model/Groundnut_XGB.pkl",
+            0.11154447701547283
+        ],
+        [
+            "./Saved_Model/Groundnut_GBM.pkl",
+            0.12156087808363136
+        ]
+    ],
+    "Guar seed": [
+        1.5488969063989382,
+        [
+            "./Saved_Model/Guar seed_SVR.pkl",
+            0.052924545743827815
+        ],
+        [
+            "./Saved_Model/Guar seed_POLY.pkl",
+            0.12911442176228521
+        ],
+        [
+            "./Saved_Model/Guar seed_NN.pkl",
+            0.23848001076957753
+        ],
+        [
+            "./Saved_Model/Guar seed_GBM.pkl",
+            0.5744909889735536
+        ]
+    ],
+    "Horse-gram": [
+        0.022067029643897212,
+        [
+            "./Saved_Model/Horse-gram_SVR.pkl",
+            0.021760475453513964
+        ],
+        [
+            "./Saved_Model/Horse-gram_POLY.pkl",
+            0.0295848666407176
+        ],
+        [
+            "./Saved_Model/Horse-gram_NN.pkl",
+            0.025756933583359353
+        ],
+        [
+            "./Saved_Model/Horse-gram_XGB.pkl",
+            0.01731775517556564
+        ],
+        [
+            "./Saved_Model/Horse-gram_GBM.pkl",
+            0.015915117366329515
+        ]
+    ],
+    "Jack Fruit": [
+        0.055015844320202914,
+        [
+            "./Saved_Model/Jack Fruit_SVR.pkl",
+            0.012638956554624775
+        ],
+        [
+            "./Saved_Model/Jack Fruit_POLY.pkl",
+            0.026855108418710083
+        ],
+        [
+            "./Saved_Model/Jack Fruit_NN.pkl",
+            0.17631475459553908
+        ],
+        [
+            "./Saved_Model/Jack Fruit_XGB.pkl",
+            0.013618139954922327
+        ],
+        [
+            "./Saved_Model/Jack Fruit_GBM.pkl",
+            0.0456522620772183
+        ]
+    ],
+    "Jobster": [
+        0.003662917873943905,
+        [
+            "./Saved_Model/Jobster_SVR.pkl",
+            5.668934240362771e-06
+        ],
+        [
+            "./Saved_Model/Jobster_POLY.pkl",
+            0.000953635353653226
+        ],
+        [
+            "./Saved_Model/Jobster_NN.pkl",
+            0.01729928534918004
+        ],
+        [
+            "./Saved_Model/Jobster_XGB.pkl",
+            4.488413196668262e-09
+        ],
+        [
+            "./Saved_Model/Jobster_GBM.pkl",
+            5.59952442326988e-05
+        ]
+    ],
+    "Jowar": [
+        0.21764146608463703,
+        [
+            "./Saved_Model/Jowar_SVR.pkl",
+            0.25968772878377266
+        ],
+        [
+            "./Saved_Model/Jowar_POLY.pkl",
+            0.3012388082353842
+        ],
+        [
+            "./Saved_Model/Jowar_NN.pkl",
+            0.25095725574664335
+        ],
+        [
+            "./Saved_Model/Jowar_XGB.pkl",
+            0.13120801990357517
+        ],
+        [
+            "./Saved_Model/Jowar_GBM.pkl",
+            0.14511551775380965
+        ]
+    ],
+    "Jute & mesta": [
+        1.6234121963888906,
+        [
+            "./Saved_Model/Jute & mesta_SVR.pkl",
+            0.07119390618145618
+        ],
+        [
+            "./Saved_Model/Jute & mesta_NN.pkl",
+            0.035733047312813876
+        ],
+        [
+            "./Saved_Model/Jute & mesta_XGB.pkl",
+            0.33585192660210833
+        ],
+        [
+            "./Saved_Model/Jute & mesta_GBM.pkl",
+            0.12444744914538462
+        ]
+    ],
+    "Jute": [
+        8.397181221720034,
+        [
+            "./Saved_Model/Jute_XGB.pkl",
+            4.190040236057402
+        ],
+        [
+            "./Saved_Model/Jute_GBM.pkl",
+            3.82889968310512
+        ]
+    ],
+    "Kapas": [
+        0.4699176958350312,
+        [
+            "./Saved_Model/Kapas_SVR.pkl",
+            0.40603407451088686
+        ],
+        [
+            "./Saved_Model/Kapas_NN.pkl",
+            0.01456852661313745
+        ],
+        [
+            "./Saved_Model/Kapas_XGB.pkl",
+            0.49966315840673553
+        ],
+        [
+            "./Saved_Model/Kapas_GBM.pkl",
+            0.06010554603313212
+        ]
+    ],
+    "Khesari": [
+        0.08467124509426753,
+        [
+            "./Saved_Model/Khesari_SVR.pkl",
+            0.09430970003694218
+        ],
+        [
+            "./Saved_Model/Khesari_POLY.pkl",
+            0.10291677311579643
+        ],
+        [
+            "./Saved_Model/Khesari_NN.pkl",
+            0.10169511582578948
+        ],
+        [
+            "./Saved_Model/Khesari_XGB.pkl",
+            0.06361506526884808
+        ],
+        [
+            "./Saved_Model/Khesari_GBM.pkl",
+            0.060819571223961456
+        ]
+    ],
+    "Korra": [
+        0.049728864248052146,
+        [
+            "./Saved_Model/Korra_SVR.pkl",
+            0.05148453415980489
+        ],
+        [
+            "./Saved_Model/Korra_POLY.pkl",
+            0.05483495408356465
+        ],
+        [
+            "./Saved_Model/Korra_NN.pkl",
+            0.06258959745446067
+        ],
+        [
+            "./Saved_Model/Korra_XGB.pkl",
+            0.031229014663040164
+        ],
+        [
+            "./Saved_Model/Korra_GBM.pkl",
+            0.04850622087939035
+        ]
+    ],
+    "Lemon": [
+        14.534042774724856,
+        [
+            "./Saved_Model/Lemon_XGB.pkl",
+            1.4611462835435929
+        ]
+    ],
+    "Lentil": [
+        0.034683448424217826,
+        [
+            "./Saved_Model/Lentil_SVR.pkl",
+            0.022237142268925186
+        ],
+        [
+            "./Saved_Model/Lentil_POLY.pkl",
+            0.02941266908527611
+        ],
+        [
+            "./Saved_Model/Lentil_NN.pkl",
+            0.03448421214267608
+        ],
+        [
+            "./Saved_Model/Lentil_XGB.pkl",
+            0.06541917400877799
+        ],
+        [
+            "./Saved_Model/Lentil_GBM.pkl",
+            0.02186404461543376
+        ]
+    ],
+    "Linseed": [
+        0.05536421134477809,
+        [
+            "./Saved_Model/Linseed_SVR.pkl",
+            0.06054368822912431
+        ],
+        [
+            "./Saved_Model/Linseed_POLY.pkl",
+            0.07819275413521207
+        ],
+        [
+            "./Saved_Model/Linseed_NN.pkl",
+            0.05909977252821089
+        ],
+        [
+            "./Saved_Model/Linseed_XGB.pkl",
+            0.04063042875372573
+        ],
+        [
+            "./Saved_Model/Linseed_GBM.pkl",
+            0.03835441307761743
+        ]
+    ],
+    "Maize": [
+        15.34860208220383,
+        [
+            "./Saved_Model/Maize_SVR.pkl",
+            0.9398209618505556
+        ],
+        [
+            "./Saved_Model/Maize_POLY.pkl",
+            8.730783040531728
+        ],
+        [
+            "./Saved_Model/Maize_XGB.pkl",
+            0.5079668573524341
+        ],
+        [
+            "./Saved_Model/Maize_GBM.pkl",
+            11.550025922442726
+        ]
+    ],
+    "Mango": [
+        9.236993370229044,
+        [
+            "./Saved_Model/Mango_XGB.pkl",
+            6.5152777495720375
+        ],
+        [
+            "./Saved_Model/Mango_GBM.pkl",
+            8.031337722583952
+        ]
+    ],
+    "Masoor": [
+        0.08560757830723752,
+        [
+            "./Saved_Model/Masoor_SVR.pkl",
+            0.0996286754458981
+        ],
+        [
+            "./Saved_Model/Masoor_POLY.pkl",
+            0.111652541437213
+        ],
+        [
+            "./Saved_Model/Masoor_NN.pkl",
+            0.09932083489290898
+        ],
+        [
+            "./Saved_Model/Masoor_XGB.pkl",
+            0.05716661117193555
+        ],
+        [
+            "./Saved_Model/Masoor_GBM.pkl",
+            0.06026922858823198
+        ]
+    ],
+    "Mesta": [
+        5.953428522554531,
+        [
+            "./Saved_Model/Mesta_SVR.pkl",
+            5.858686957616028
+        ],
+        [
+            "./Saved_Model/Mesta_XGB.pkl",
+            3.1887032007715144
+        ],
+        [
+            "./Saved_Model/Mesta_GBM.pkl",
+            4.0493150162517315
+        ]
+    ],
+    "Moong(Green Gram)": [
+        0.06171274684891968,
+        [
+            "./Saved_Model/Moong(Green Gram)_SVR.pkl",
+            0.06290839220739465
+        ],
+        [
+            "./Saved_Model/Moong(Green Gram)_POLY.pkl",
+            0.0767635978273207
+        ],
+        [
+            "./Saved_Model/Moong(Green Gram)_NN.pkl",
+            0.06541833695439157
+        ],
+        [
+            "./Saved_Model/Moong(Green Gram)_XGB.pkl",
+            0.04983037770471195
+        ],
+        [
+            "./Saved_Model/Moong(Green Gram)_GBM.pkl",
+            0.053643029550779556
+        ]
+    ],
+    "Moth": [
+        0.03814623937669554,
+        [
+            "./Saved_Model/Moth_SVR.pkl",
+            0.04004141937181412
+        ],
+        [
+            "./Saved_Model/Moth_POLY.pkl",
+            0.04522979475139992
+        ],
+        [
+            "./Saved_Model/Moth_NN.pkl",
+            0.04602981681751195
+        ],
+        [
+            "./Saved_Model/Moth_XGB.pkl",
+            0.032434888384720806
+        ],
+        [
+            "./Saved_Model/Moth_GBM.pkl",
+            0.02699527755803091
+        ]
+    ],
+    "Niger seed": [
+        12.517104093562155,
+        [
+            "./Saved_Model/Niger seed_XGB.pkl",
+            12.30681252657959
+        ],
+        [
+            "./Saved_Model/Niger seed_GBM.pkl",
+            12.434459160714468
+        ]
+    ],
+    "Oilseeds total": [
+        0.08707290531616509,
+        [
+            "./Saved_Model/Oilseeds total_SVR.pkl",
+            0.0681557319402499
+        ],
+        [
+            "./Saved_Model/Oilseeds total_POLY.pkl",
+            0.09159512854289298
+        ],
+        [
+            "./Saved_Model/Oilseeds total_NN.pkl",
+            0.1078943025535171
+        ],
+        [
+            "./Saved_Model/Oilseeds total_XGB.pkl",
+            0.1045963784353923
+        ],
+        [
+            "./Saved_Model/Oilseeds total_GBM.pkl",
+            0.06312298510877316
+        ]
+    ],
+    "Onion": [
+        3294.498949229984,
+        [
+            "./Saved_Model/Onion_XGB.pkl",
+            3274.8313334385734
+        ],
+        [
+            "./Saved_Model/Onion_GBM.pkl",
+            3276.273732602918
+        ]
+    ],
+    "Orange": [
+        8.644303708968941,
+        [
+            "./Saved_Model/Orange_SVR.pkl",
+            4.760213683320301
+        ],
+        [
+            "./Saved_Model/Orange_XGB.pkl",
+            6.860540284445315
+        ],
+        [
+            "./Saved_Model/Orange_GBM.pkl",
+            4.171323723460506
+        ]
+    ],
+    "Other  Rabi pulses": [
+        0.11406208112112307,
+        [
+            "./Saved_Model/Other  Rabi pulses_SVR.pkl",
+            0.09375629405209769
+        ],
+        [
+            "./Saved_Model/Other  Rabi pulses_POLY.pkl",
+            0.12451836149906922
+        ],
+        [
+            "./Saved_Model/Other  Rabi pulses_NN.pkl",
+            0.11304023986758553
+        ],
+        [
+            "./Saved_Model/Other  Rabi pulses_XGB.pkl",
+            0.13825988094600972
+        ],
+        [
+            "./Saved_Model/Other  Rabi pulses_GBM.pkl",
+            0.10073562924085311
+        ]
+    ],
+    "Other Cereals & Millets": [
+        0.12903308517766668,
+        [
+            "./Saved_Model/Other Cereals & Millets_SVR.pkl",
+            0.1465617218079844
+        ],
+        [
+            "./Saved_Model/Other Cereals & Millets_POLY.pkl",
+            0.16262851748279702
+        ],
+        [
+            "./Saved_Model/Other Cereals & Millets_NN.pkl",
+            0.17044273555793218
+        ],
+        [
+            "./Saved_Model/Other Cereals & Millets_XGB.pkl",
+            0.07678749691087615
+        ],
+        [
+            "./Saved_Model/Other Cereals & Millets_GBM.pkl",
+            0.08874495412874366
+        ]
+    ],
+    "Other Fresh Fruits": [
+        3.160961980260737,
+        [
+            "./Saved_Model/Other Fresh Fruits_POLY.pkl",
+            3.0912842323216148
+        ],
+        [
+            "./Saved_Model/Other Fresh Fruits_XGB.pkl",
+            1.6921059579147664
+        ]
+    ],
+    "Other Kharif pulses": [
+        0.06191441643934158,
+        [
+            "./Saved_Model/Other Kharif pulses_SVR.pkl",
+            0.0435808615203478
+        ],
+        [
+            "./Saved_Model/Other Kharif pulses_POLY.pkl",
+            0.05232641558102219
+        ],
+        [
+            "./Saved_Model/Other Kharif pulses_NN.pkl",
+            0.04650350121254395
+        ],
+        [
+            "./Saved_Model/Other Kharif pulses_XGB.pkl",
+            0.11688586946403352
+        ],
+        [
+            "./Saved_Model/Other Kharif pulses_GBM.pkl",
+            0.05027543441876042
+        ]
+    ],
+    "other misc": [
+        0.02135333475802661,
+        [
+            "./Saved_Model/other misc_SVR.pkl",
+            0.03880115600749244
+        ],
+        [
+            "./Saved_Model/other misc_POLY.pkl",
+            0.024580222521653435
+        ],
+        [
+            "./Saved_Model/other misc_NN.pkl",
+            0.010542191199510234
+        ],
+        [
+            "./Saved_Model/other misc_XGB.pkl",
+            0.005414917966163771
+        ],
+        [
+            "./Saved_Model/other misc_GBM.pkl",
+            0.027428186095313167
+        ]
+    ],
+    "other oilseeds": [
+        9.36129487413678,
+        [
+            "./Saved_Model/other oilseeds_SVR.pkl",
+            8.480069554420858
+        ],
+        [
+            "./Saved_Model/other oilseeds_NN.pkl",
+            8.344549698004505
+        ],
+        [
+            "./Saved_Model/other oilseeds_XGB.pkl",
+            9.248519014279072
+        ],
+        [
+            "./Saved_Model/other oilseeds_GBM.pkl",
+            6.9150264966725095
+        ]
+    ],
+    "Other Vegetables": [
+        57.787596017581905,
+        [
+            "./Saved_Model/Other Vegetables_SVR.pkl",
+            21.138604556168705
+        ],
+        [
+            "./Saved_Model/Other Vegetables_NN.pkl",
+            26.667689598987817
+        ],
+        [
+            "./Saved_Model/Other Vegetables_XGB.pkl",
+            2.8686316504771283
+        ],
+        [
+            "./Saved_Model/Other Vegetables_GBM.pkl",
+            13.138121105586993
+        ]
+    ],
+    "Paddy": [
+        0.3120953445170758,
+        [
+            "./Saved_Model/Paddy_SVR.pkl",
+            0.27024998441491066
+        ],
+        [
+            "./Saved_Model/Paddy_POLY.pkl",
+            0.4631786972230579
+        ],
+        [
+            "./Saved_Model/Paddy_NN.pkl",
+            0.3760028992239714
+        ],
+        [
+            "./Saved_Model/Paddy_XGB.pkl",
+            0.20381183267704053
+        ],
+        [
+            "./Saved_Model/Paddy_GBM.pkl",
+            0.2472333090463984
+        ]
+    ],
+    "Papaya": [
+        442.38230600823397,
+        [
+            "./Saved_Model/Papaya_SVR.pkl",
+            202.61464590039137
+        ],
+        [
+            "./Saved_Model/Papaya_XGB.pkl",
+            411.3292491964916
+        ],
+        [
+            "./Saved_Model/Papaya_GBM.pkl",
+            256.837686858164
+        ]
+    ],
+    "Peas & beans (Pulses)": [
+        0.7696175018024058,
+        [
+            "./Saved_Model/Peas & beans (Pulses)_SVR.pkl",
+            0.8555249771203899
+        ],
+        [
+            "./Saved_Model/Peas & beans (Pulses)_POLY.pkl",
+            0.9694950263850223
+        ],
+        [
+            "./Saved_Model/Peas & beans (Pulses)_NN.pkl",
+            0.7724461216862472
+        ],
+        [
+            "./Saved_Model/Peas & beans (Pulses)_XGB.pkl",
+            0.6961469920902381
+        ],
+        [
+            "./Saved_Model/Peas & beans (Pulses)_GBM.pkl",
+            0.5544743917301315
+        ]
+    ],
+    "Perilla": [
+        0.009688345185787067,
+        [
+            "./Saved_Model/Perilla_SVR.pkl",
+            0.0023684878363109934
+        ],
+        [
+            "./Saved_Model/Perilla_POLY.pkl",
+            0.0032073480817332227
+        ],
+        [
+            "./Saved_Model/Perilla_NN.pkl",
+            0.03780555969855856
+        ],
+        [
+            "./Saved_Model/Perilla_XGB.pkl",
+            0.002216084696581421
+        ],
+        [
+            "./Saved_Model/Perilla_GBM.pkl",
+            0.002844245615751142
+        ]
+    ],
+    "Pineapple": [
+        6.889115462455661,
+        [
+            "./Saved_Model/Pineapple_SVR.pkl",
+            3.9699337405667303
+        ],
+        [
+            "./Saved_Model/Pineapple_POLY.pkl",
+            5.253874767540989
+        ],
+        [
+            "./Saved_Model/Pineapple_XGB.pkl",
+            2.9535637375604606
+        ],
+        [
+            "./Saved_Model/Pineapple_GBM.pkl",
+            3.936393537647571
+        ]
+    ],
+    "Pome Fruit": [
+        45.79665171355737,
+        [
+            "./Saved_Model/Pome Fruit_XGB.pkl",
+            9.481752642117796
+        ],
+        [
+            "./Saved_Model/Pome Fruit_GBM.pkl",
+            32.82382647105488
+        ]
+    ],
+    "Pome Granet": [
+        2.1421935230474842,
+        [
+            "./Saved_Model/Pome Granet_SVR.pkl",
+            1.0870345084102697
+        ],
+        [
+            "./Saved_Model/Pome Granet_POLY.pkl",
+            0.594581464232738
+        ],
+        [
+            "./Saved_Model/Pome Granet_XGB.pkl",
+            0.7297723321926326
+        ]
+    ],
+    "Potato": [
+        24.95858908168716,
+        [
+            "./Saved_Model/Potato_XGB.pkl",
+            11.878149673503529
+        ],
+        [
+            "./Saved_Model/Potato_GBM.pkl",
+            12.569686869925686
+        ]
+    ],
+    "Pulses total": [
+        0.09495773632612785,
+        [
+            "./Saved_Model/Pulses total_SVR.pkl",
+            0.09449105418644074
+        ],
+        [
+            "./Saved_Model/Pulses total_POLY.pkl",
+            0.10282771600909603
+        ],
+        [
+            "./Saved_Model/Pulses total_NN.pkl",
+            0.10935971301661897
+        ],
+        [
+            "./Saved_Model/Pulses total_XGB.pkl",
+            0.08488988522444119
+        ],
+        [
+            "./Saved_Model/Pulses total_GBM.pkl",
+            0.08322031319404236
+        ]
+    ],
+    "Ragi": [
+        0.21635308198323297,
+        [
+            "./Saved_Model/Ragi_SVR.pkl",
+            0.22590366694754618
+        ],
+        [
+            "./Saved_Model/Ragi_POLY.pkl",
+            0.3152473205691083
+        ],
+        [
+            "./Saved_Model/Ragi_NN.pkl",
+            0.2356370524937634
+        ],
+        [
+            "./Saved_Model/Ragi_XGB.pkl",
+            0.14886510455075533
+        ],
+        [
+            "./Saved_Model/Ragi_GBM.pkl",
+            0.15611226535499165
+        ]
+    ],
+    "Rajmash Kholar": [
+        0.00375506981561911,
+        [
+            "./Saved_Model/Rajmash Kholar_SVR.pkl",
+            0.001148726583016139
+        ],
+        [
+            "./Saved_Model/Rajmash Kholar_POLY.pkl",
+            0.0013830930172876285
+        ],
+        [
+            "./Saved_Model/Rajmash Kholar_NN.pkl",
+            0.014563115560445738
+        ],
+        [
+            "./Saved_Model/Rajmash Kholar_XGB.pkl",
+            0.0007098753019964131
+        ],
+        [
+            "./Saved_Model/Rajmash Kholar_GBM.pkl",
+            0.0009705386153496317
+        ]
+    ],
+    "Rapeseed &Mustard": [
+        0.12998065064944922,
+        [
+            "./Saved_Model/Rapeseed &Mustard_SVR.pkl",
+            0.13145865153320163
+        ],
+        [
+            "./Saved_Model/Rapeseed &Mustard_POLY.pkl",
+            0.15837133485376523
+        ],
+        [
+            "./Saved_Model/Rapeseed &Mustard_NN.pkl",
+            0.13361558627435705
+        ],
+        [
+            "./Saved_Model/Rapeseed &Mustard_XGB.pkl",
+            0.12785750504832882
+        ],
+        [
+            "./Saved_Model/Rapeseed &Mustard_GBM.pkl",
+            0.09860017553759326
+        ]
+    ],
+    "Redish": [
+        22219.72607310187,
+        [
+            "./Saved_Model/Redish_SVR.pkl",
+            0.011674717903432002
+        ],
+        [
+            "./Saved_Model/Redish_NN.pkl",
+            0.13682040540092844
+        ],
+        [
+            "./Saved_Model/Redish_XGB.pkl",
+            0.04158904647932313
+        ],
+        [
+            "./Saved_Model/Redish_GBM.pkl",
+            13.392863738557965
+        ]
+    ],
+    "Rice": [
+        0.5198803913217542,
+        [
+            "./Saved_Model/Rice_SVR.pkl",
+            0.5020871269550343
+        ],
+        [
+            "./Saved_Model/Rice_POLY.pkl",
+            0.7836181495602622
+        ],
+        [
+            "./Saved_Model/Rice_NN.pkl",
+            0.5344161003505167
+        ],
+        [
+            "./Saved_Model/Rice_XGB.pkl",
+            0.30524181678321594
+        ],
+        [
+            "./Saved_Model/Rice_GBM.pkl",
+            0.4740387629597423
+        ]
+    ],
+    "Ricebean (nagadal)": [
+        0.004132290212738679,
+        [
+            "./Saved_Model/Ricebean (nagadal)_SVR.pkl",
+            0.00023353295389779395
+        ],
+        [
+            "./Saved_Model/Ricebean (nagadal)_POLY.pkl",
+            0.001695794022544763
+        ],
+        [
+            "./Saved_Model/Ricebean (nagadal)_NN.pkl",
+            0.018462954522873408
+        ],
+        [
+            "./Saved_Model/Ricebean (nagadal)_XGB.pkl",
+            3.0744609486316664e-05
+        ],
+        [
+            "./Saved_Model/Ricebean (nagadal)_GBM.pkl",
+            0.00023842495489111067
+        ]
+    ],
+    "Rubber": [
+        0.017902077557204348,
+        [
+            "./Saved_Model/Rubber_SVR.pkl",
+            0.01768595445123559
+        ],
+        [
+            "./Saved_Model/Rubber_POLY.pkl",
+            0.026519825263343604
+        ],
+        [
+            "./Saved_Model/Rubber_NN.pkl",
+            0.011426204247459897
+        ],
+        [
+            "./Saved_Model/Rubber_XGB.pkl",
+            0.00037672067615379337
+        ],
+        [
+            "./Saved_Model/Rubber_GBM.pkl",
+            0.033501683147828865
+        ]
+    ],
+    "Safflower": [
+        0.03913848718873597,
+        [
+            "./Saved_Model/Safflower_SVR.pkl",
+            0.04017931566697277
+        ],
+        [
+            "./Saved_Model/Safflower_POLY.pkl",
+            0.04402169102665397
+        ],
+        [
+            "./Saved_Model/Safflower_NN.pkl",
+            0.04325946771828359
+        ],
+        [
+            "./Saved_Model/Safflower_XGB.pkl",
+            0.035008779264313214
+        ],
+        [
+            "./Saved_Model/Safflower_GBM.pkl",
+            0.0332231822674563
+        ]
+    ],
+    "Samai": [
+        0.03468753705737153,
+        [
+            "./Saved_Model/Samai_SVR.pkl",
+            0.026614376086869923
+        ],
+        [
+            "./Saved_Model/Samai_POLY.pkl",
+            0.0291515925528813
+        ],
+        [
+            "./Saved_Model/Samai_NN.pkl",
+            0.06028017105913682
+        ],
+        [
+            "./Saved_Model/Samai_XGB.pkl",
+            0.023970711942383417
+        ],
+        [
+            "./Saved_Model/Samai_GBM.pkl",
+            0.03342083364558615
+        ]
+    ],
+    "Sannhamp": [
+        0.6163882566410691,
+        [
+            "./Saved_Model/Sannhamp_SVR.pkl",
+            0.5403946062728603
+        ],
+        [
+            "./Saved_Model/Sannhamp_POLY.pkl",
+            0.9670997104943494
+        ],
+        [
+            "./Saved_Model/Sannhamp_NN.pkl",
+            0.5870323697694334
+        ],
+        [
+            "./Saved_Model/Sannhamp_XGB.pkl",
+            0.5841579165996688
+        ],
+        [
+            "./Saved_Model/Sannhamp_GBM.pkl",
+            0.40325668006903354
+        ]
+    ],
+    "Sapota": [
+        3.2203641784310406,
+        [
+            "./Saved_Model/Sapota_XGB.pkl",
+            0.7045204928790713
+        ],
+        [
+            "./Saved_Model/Sapota_GBM.pkl",
+            2.658593045587569
+        ]
+    ],
+    "Sesamum": [
+        0.32775994147432197,
+        [
+            "./Saved_Model/Sesamum_SVR.pkl",
+            0.029649864555603343
+        ],
+        [
+            "./Saved_Model/Sesamum_POLY.pkl",
+            0.36189131221321374
+        ],
+        [
+            "./Saved_Model/Sesamum_NN.pkl",
+            0.6018131578832419
+        ],
+        [
+            "./Saved_Model/Sesamum_XGB.pkl",
+            0.05612833451968877
+        ],
+        [
+            "./Saved_Model/Sesamum_GBM.pkl",
+            0.5893170381998621
+        ]
+    ],
+    "Small millets": [
+        0.39938870787413533,
+        [
+            "./Saved_Model/Small millets_SVR.pkl",
+            0.3641719103132066
+        ],
+        [
+            "./Saved_Model/Small millets_POLY.pkl",
+            0.3687839265858643
+        ],
+        [
+            "./Saved_Model/Small millets_NN.pkl",
+            0.3654512971849404
+        ],
+        [
+            "./Saved_Model/Small millets_XGB.pkl",
+            0.5379440791989972
+        ],
+        [
+            "./Saved_Model/Small millets_GBM.pkl",
+            0.3605923260876683
+        ]
+    ],
+    "Soyabean": [
+        0.22571983500489318,
+        [
+            "./Saved_Model/Soyabean_SVR.pkl",
+            0.24704358912856114
+        ],
+        [
+            "./Saved_Model/Soyabean_POLY.pkl",
+            0.27622282746745647
+        ],
+        [
+            "./Saved_Model/Soyabean_NN.pkl",
+            0.25559434330148423
+        ],
+        [
+            "./Saved_Model/Soyabean_XGB.pkl",
+            0.1737062812494265
+        ],
+        [
+            "./Saved_Model/Soyabean_GBM.pkl",
+            0.1760321338775377
+        ]
+    ],
+    "Sugarcane": [
+        3119233.856787248,
+        [
+            "./Saved_Model/Sugarcane_XGB.pkl",
+            572730.5402454006
+        ],
+        [
+            "./Saved_Model/Sugarcane_GBM.pkl",
+            1781910.5184306605
+        ]
+    ],
+    "Sunflower": [
+        0.18835153379918534,
+        [
+            "./Saved_Model/Sunflower_SVR.pkl",
+            0.13569378173174368
+        ],
+        [
+            "./Saved_Model/Sunflower_POLY.pkl",
+            0.17349646763285598
+        ],
+        [
+            "./Saved_Model/Sunflower_NN.pkl",
+            0.15605142506998768
+        ],
+        [
+            "./Saved_Model/Sunflower_XGB.pkl",
+            0.332118804022607
+        ],
+        [
+            "./Saved_Model/Sunflower_GBM.pkl",
+            0.14439719053873232
+        ]
+    ],
+    "Sweet potato": [
+        6.88177642846874,
+        [
+            "./Saved_Model/Sweet potato_XGB.pkl",
+            3.006323390874357
+        ],
+        [
+            "./Saved_Model/Sweet potato_GBM.pkl",
+            3.2992060593889887
+        ]
+    ],
+    "Tapioca": [
+        33.49006219416489,
+        [
+            "./Saved_Model/Tapioca_XGB.pkl",
+            10.273858980490491
+        ],
+        [
+            "./Saved_Model/Tapioca_GBM.pkl",
+            9.90577692142434
+        ]
+    ],
+    "Tea": [
+        1.642786323890086,
+        [
+            "./Saved_Model/Tea_NN.pkl",
+            1.19634271392318
+        ],
+        [
+            "./Saved_Model/Tea_XGB.pkl",
+            1.2239572827618619
+        ],
+        [
+            "./Saved_Model/Tea_GBM.pkl",
+            1.5513177948618453
+        ]
+    ],
+    "Tobacco": [
+        0.8557112229906455,
+        [
+            "./Saved_Model/Tobacco_SVR.pkl",
+            0.8707323582510093
+        ],
+        [
+            "./Saved_Model/Tobacco_NN.pkl",
+            0.7640247586494077
+        ],
+        [
+            "./Saved_Model/Tobacco_XGB.pkl",
+            0.29054494392148145
+        ],
+        [
+            "./Saved_Model/Tobacco_GBM.pkl",
+            0.29917731941030057
+        ]
+    ],
+    "Tomato": [
+        7.619128269648056,
+        [
+            "./Saved_Model/Tomato_XGB.pkl",
+            4.425269751992637
+        ],
+        [
+            "./Saved_Model/Tomato_GBM.pkl",
+            5.586926426771411
+        ]
+    ],
+    "Total foodgrain": [
+        0.17289953943484976,
+        [
+            "./Saved_Model/Total foodgrain_SVR.pkl",
+            0.11932862549704422
+        ],
+        [
+            "./Saved_Model/Total foodgrain_POLY.pkl",
+            0.14720648431119948
+        ],
+        [
+            "./Saved_Model/Total foodgrain_NN.pkl",
+            0.1705884525382006
+        ],
+        [
+            "./Saved_Model/Total foodgrain_XGB.pkl",
+            0.21160363938197738
+        ],
+        [
+            "./Saved_Model/Total foodgrain_GBM.pkl",
+            0.21577049544582722
+        ]
+    ],
+    "Turmeric": [
+        2.009383429222735,
+        [
+            "./Saved_Model/Turmeric_XGB.pkl",
+            0.8289001317251912
+        ],
+        [
+            "./Saved_Model/Turmeric_GBM.pkl",
+            0.9335534663870002
+        ]
+    ],
+    "Turnip": [
+        0.01068405038182472,
+        [
+            "./Saved_Model/Turnip_SVR.pkl",
+            0.009848003518613872
+        ],
+        [
+            "./Saved_Model/Turnip_POLY.pkl",
+            7.6111063150961814e-06
+        ],
+        [
+            "./Saved_Model/Turnip_NN.pkl",
+            0.009987051480679294
+        ],
+        [
+            "./Saved_Model/Turnip_XGB.pkl",
+            6.610885438558203e-05
+        ],
+        [
+            "./Saved_Model/Turnip_GBM.pkl",
+            0.03351147694912975
+        ]
+    ],
+    "Urad": [
+        0.10786921681505943,
+        [
+            "./Saved_Model/Urad_SVR.pkl",
+            0.10448269390608747
+        ],
+        [
+            "./Saved_Model/Urad_POLY.pkl",
+            0.11600138367808847
+        ],
+        [
+            "./Saved_Model/Urad_NN.pkl",
+            0.10612879039043868
+        ],
+        [
+            "./Saved_Model/Urad_XGB.pkl",
+            0.11574019919565834
+        ],
+        [
+            "./Saved_Model/Urad_GBM.pkl",
+            0.09699301690502411
+        ]
+    ],
+    "Varagu": [
+        0.09065443939949253,
+        [
+            "./Saved_Model/Varagu_SVR.pkl",
+            0.08751320738743636
+        ],
+        [
+            "./Saved_Model/Varagu_POLY.pkl",
+            0.0944458803573261
+        ],
+        [
+            "./Saved_Model/Varagu_NN.pkl",
+            0.07204610540743539
+        ],
+        [
+            "./Saved_Model/Varagu_XGB.pkl",
+            0.10585156187183199
+        ],
+        [
+            "./Saved_Model/Varagu_GBM.pkl",
+            0.09341544197343281
+        ]
+    ],
+    "Wheat": [
+        0.2795698761508116,
+        [
+            "./Saved_Model/Wheat_SVR.pkl",
+            0.32163706748978
+        ],
+        [
+            "./Saved_Model/Wheat_POLY.pkl",
+            0.5138308875786017
+        ],
+        [
+            "./Saved_Model/Wheat_NN.pkl",
+            0.2882126763018688
+        ],
+        [
+            "./Saved_Model/Wheat_XGB.pkl",
+            0.13158176946202108
+        ],
+        [
+            "./Saved_Model/Wheat_GBM.pkl",
+            0.14258697992178618
+        ]
+    ]
+}

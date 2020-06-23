@@ -1,0 +1,1989 @@
+{
+    "Arcanut (Processed)": [
+        0.065065220958848,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arcanut (Processed)_SVR",
+            0.06959864696678783
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arcanut (Processed)_POLY",
+            0.09652787302466913
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arcanut (Processed)_NN",
+            0.05713861957188639
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arcanut (Processed)_XGB",
+            0.004601223190796602
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arcanut (Processed)_GBM",
+            0.09745974204010002
+        ]
+    ],
+    "Arecanut": [
+        2.1307276592234916,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arecanut_XGB",
+            0.6931611647149468
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arecanut_GBM",
+            0.48983587011346813
+        ]
+    ],
+    "Arhar&Tur": [
+        0.11459426589699964,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arhar&Tur_SVR",
+            0.12219456711977739
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arhar&Tur_POLY",
+            0.1593877891021745
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arhar&Tur_NN",
+            0.12291668059931114
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arhar&Tur_XGB",
+            0.08454803483406396
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Arhar&Tur_GBM",
+            0.0839242578296712
+        ]
+    ],
+    "Atcanut (Raw)": [
+        1.4919273752144573,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Atcanut (Raw)_NN",
+            1.4702091930355579
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Atcanut (Raw)_XGB",
+            0.07109169267924348
+        ]
+    ],
+    "Bajra": [
+        0.19335508925109937,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bajra_SVR",
+            0.18999211243354508
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bajra_POLY",
+            0.2916175901195121
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bajra_NN",
+            0.19917349790300923
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bajra_XGB",
+            0.1549012485410374
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bajra_GBM",
+            0.13109099725839302
+        ]
+    ],
+    "Banana": [
+        119.13743164141383,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Banana_XGB",
+            74.77869722327424
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Banana_GBM",
+            74.10302884373513
+        ]
+    ],
+    "Barley": [
+        0.20525680884676772,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Barley_SVR",
+            0.2536503806106959
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Barley_POLY",
+            0.3476090172692578
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Barley_NN",
+            0.2103230557796752
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Barley_XGB",
+            0.10958766087884929
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Barley_GBM",
+            0.10511392969536058
+        ]
+    ],
+    "Bean": [
+        0.006571697377622854,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bean_SVR",
+            0.0018550557477893163
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bean_POLY",
+            0.0029121315724874117
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bean_NN",
+            0.024532464733944014
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bean_XGB",
+            0.0016037372678717556
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bean_GBM",
+            0.001955097566021773
+        ]
+    ],
+    "Beans & Mutter(Vegetable)": [
+        1.8145546028237398,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Beans & Mutter(Vegetable)_SVR",
+            1.7223459268761898
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Beans & Mutter(Vegetable)_XGB",
+            0.9768797546975106
+        ]
+    ],
+    "Bhindi": [
+        26.197363053532627,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bhindi_SVR",
+            7.886289383930001
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bhindi_NN",
+            3.822137755226759
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bhindi_XGB",
+            3.9684976580154263
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bhindi_GBM",
+            5.188935220643697
+        ]
+    ],
+    "Bitter Gourd": [
+        0.37920207387337873,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bitter Gourd_SVR",
+            0.18008454029081777
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bitter Gourd_POLY",
+            0.7379514439637452
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bitter Gourd_NN",
+            0.24539273194787156
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bitter Gourd_XGB",
+            0.12342125335055698
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bitter Gourd_GBM",
+            0.6091603998139021
+        ]
+    ],
+    "Black pepper": [
+        0.5898631847257255,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Black pepper_SVR",
+            0.8196772003874756
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Black pepper_NN",
+            0.8141078160403817
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Black pepper_XGB",
+            0.14544005030845247
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Black pepper_GBM",
+            0.1561529685059431
+        ]
+    ],
+    "Blackgram": [
+        0.017526208688452286,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Blackgram_SVR",
+            0.014514158760248422
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Blackgram_POLY",
+            0.01196533698257994
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Blackgram_NN",
+            0.027093195561359917
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Blackgram_XGB",
+            0.021163947957535578
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Blackgram_GBM",
+            0.012894404180537573
+        ]
+    ],
+    "Bottle Gourd": [
+        0.1172875261398647,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bottle Gourd_SVR",
+            0.010578695151301503
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bottle Gourd_POLY",
+            0.0010176191454202988
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bottle Gourd_NN",
+            0.1300875957656301
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bottle Gourd_XGB",
+            0.0009155057227539389
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Bottle Gourd_GBM",
+            0.44383821491421765
+        ]
+    ],
+    "Brinjal": [
+        22.96959778821697,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Brinjal_SVR",
+            19.828687067997496
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Brinjal_XGB",
+            13.878752638370258
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Brinjal_GBM",
+            15.973809659142647
+        ]
+    ],
+    "Cabbage": [
+        58.20842328344527,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cabbage_SVR",
+            38.237082242799474
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cabbage_POLY",
+            39.506569050573624
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cabbage_XGB",
+            40.46015813482341
+        ]
+    ],
+    "Cardamom": [
+        0.11147740146078555,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cardamom_SVR",
+            0.1145112231598929
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cardamom_POLY",
+            0.12114855437826945
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cardamom_NN",
+            0.10930126698388257
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cardamom_XGB",
+            0.1120924529686291
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cardamom_GBM",
+            0.10033350981325369
+        ]
+    ],
+    "Carrot": [
+        45218.55279199884,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Carrot_SVR",
+            0.029336409687177267
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Carrot_NN",
+            0.11526525389754508
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Carrot_XGB",
+            0.21140599755341533
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Carrot_GBM",
+            10.414237662222735
+        ]
+    ],
+    "Cashewnut Processed": [
+        0.01346230755665776,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Processed_SVR",
+            0.0026451111389948503
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Processed_POLY",
+            0.02787819120275293
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Processed_NN",
+            0.03287661666795219
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Processed_XGB",
+            0.0012864032250342672
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Processed_GBM",
+            0.0026252155485545813
+        ]
+    ],
+    "Cashewnut Raw": [
+        0.08108355494738675,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Raw_SVR",
+            0.0675074784946414
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Raw_POLY",
+            0.07022147644574141
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Raw_NN",
+            0.11580250491645083
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Raw_XGB",
+            0.08758053597655202
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut Raw_GBM",
+            0.06430577890354809
+        ]
+    ],
+    "Cashewnut": [
+        6114.4184549143265,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut_SVR",
+            0.04135886380248079
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut_POLY",
+            379.9853941889715
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut_NN",
+            216.02824663092247
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cashewnut_XGB",
+            0.036188194698349586
+        ]
+    ],
+    "Castor seed": [
+        0.22804997615104777,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Castor seed_SVR",
+            0.2222522974702238
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Castor seed_POLY",
+            0.2890738486262813
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Castor seed_NN",
+            0.23797996624019746
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Castor seed_XGB",
+            0.20874632983922325
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Castor seed_GBM",
+            0.1821974385793131
+        ]
+    ],
+    "Cauliflower": [
+        7.336455544465359,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cauliflower_SVR",
+            7.254640393968746
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cauliflower_NN",
+            6.1316156664534205
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cauliflower_XGB",
+            7.290712066500811
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cauliflower_GBM",
+            5.509014320805895
+        ]
+    ],
+    "Citrus Fruit": [
+        10.537616707357733,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Citrus Fruit_GBM",
+            8.255756507390844
+        ]
+    ],
+    "Coconut": [
+        20776644.196658973,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coconut_XGB",
+            7465623.74230115
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coconut_GBM",
+            7470696.402305189
+        ]
+    ],
+    "Coffee": [
+        0.027753641030047738,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coffee_SVR",
+            0.043306148164949904
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coffee_POLY",
+            0.06776721488972577
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coffee_NN",
+            0.0005279704726061677
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coffee_XGB",
+            0.01971224048791586
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coffee_GBM",
+            0.007454631135041
+        ]
+    ],
+    "Colocosia": [
+        0.00313559612056724,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Colocosia_SVR",
+            4.8927450320444895e-05
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Colocosia_POLY",
+            0.00028284542711004237
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Colocosia_NN",
+            0.015090515339676458
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Colocosia_XGB",
+            0.0001940519462887688
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Colocosia_GBM",
+            6.164043944048606e-05
+        ]
+    ],
+    "Cond-spcs other": [
+        0.14986588606499435,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cond-spcs other_SVR",
+            0.18148515809328833
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cond-spcs other_POLY",
+            0.18910602179961214
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cond-spcs other_NN",
+            0.16759553039025457
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cond-spcs other_XGB",
+            0.06651253148882302
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cond-spcs other_GBM",
+            0.14463018855299367
+        ]
+    ],
+    "Coriander": [
+        0.0401442918848174,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coriander_SVR",
+            0.042805886439643684
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coriander_POLY",
+            0.054637250927771705
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coriander_NN",
+            0.04674961005294675
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coriander_XGB",
+            0.02779182599130395
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Coriander_GBM",
+            0.02873688601242091
+        ]
+    ],
+    "Cotton(lint)": [
+        12.73540396605163,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cotton(lint)_XGB",
+            4.891967886386158
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cotton(lint)_GBM",
+            4.487250420901544
+        ]
+    ],
+    "Cowpea(Lobia)": [
+        0.053155815509901436,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cowpea(Lobia)_SVR",
+            0.05315282020479009
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cowpea(Lobia)_POLY",
+            0.057314262179911465
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cowpea(Lobia)_NN",
+            0.06555570365286442
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cowpea(Lobia)_XGB",
+            0.03871418057811005
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Cowpea(Lobia)_GBM",
+            0.05104211093383117
+        ]
+    ],
+    "Drum Stick": [
+        0.11993141303115189,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Drum Stick_SVR",
+            0.08056311951318491
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Drum Stick_POLY",
+            0.14033477477150427
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Drum Stick_NN",
+            0.144627783729575
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Drum Stick_XGB",
+            0.09480163175854016
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Drum Stick_GBM",
+            0.13932975538295514
+        ]
+    ],
+    "Dry chillies": [
+        1.1263241797343277,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Dry chillies_XGB",
+            0.7559987788754323
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Dry chillies_GBM",
+            0.6659573461545766
+        ]
+    ],
+    "Dry ginger": [
+        13.97441670776574,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Dry ginger_XGB",
+            1.9078215155400358
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Dry ginger_GBM",
+            1.9396968760583668
+        ]
+    ],
+    "Garlic": [
+        1.5836608209798886,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Garlic_NN",
+            1.557191864255392
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Garlic_XGB",
+            0.8305012485613888
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Garlic_GBM",
+            0.8358505136088251
+        ]
+    ],
+    "Ginger": [
+        6.6355676697134145,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ginger_POLY",
+            5.655854106700583
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ginger_XGB",
+            4.320348643681274
+        ]
+    ],
+    "Gram": [
+        0.07584384735583183,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Gram_SVR",
+            0.08271046658224288
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Gram_POLY",
+            0.1110112391514003
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Gram_NN",
+            0.08523926376362073
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Gram_XGB",
+            0.04850495729075697
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Gram_GBM",
+            0.051753309991138224
+        ]
+    ],
+    "Grapes": [
+        46.475722430237454,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Grapes_SVR",
+            29.05676042152447
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Grapes_GBM",
+            37.57993215724785
+        ]
+    ],
+    "Groundnut": [
+        0.1674506207767321,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Groundnut_SVR",
+            0.1773477558052447
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Groundnut_POLY",
+            0.24474225662594787
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Groundnut_NN",
+            0.18205773635336367
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Groundnut_XGB",
+            0.11154447701547283
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Groundnut_GBM",
+            0.12156087808363136
+        ]
+    ],
+    "Guar seed": [
+        1.5488969063989384,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Guar seed_SVR",
+            0.052924545743827815
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Guar seed_POLY",
+            0.12911442176228574
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Guar seed_NN",
+            0.23848001076957753
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Guar seed_GBM",
+            0.5744909889735536
+        ]
+    ],
+    "Horse-gram": [
+        0.022067029643897212,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Horse-gram_SVR",
+            0.021760475453513964
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Horse-gram_POLY",
+            0.02958486664071759
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Horse-gram_NN",
+            0.025756933583359353
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Horse-gram_XGB",
+            0.01731775517556564
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Horse-gram_GBM",
+            0.015915117366329515
+        ]
+    ],
+    "Jack Fruit": [
+        0.05501584432020277,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jack Fruit_SVR",
+            0.012638956554624775
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jack Fruit_POLY",
+            0.026855108418709354
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jack Fruit_NN",
+            0.17631475459553908
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jack Fruit_XGB",
+            0.013618139954922327
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jack Fruit_GBM",
+            0.0456522620772183
+        ]
+    ],
+    "Jobster": [
+        0.003662975390388845,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jobster_SVR",
+            5.668934240362771e-06
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jobster_POLY",
+            0.0009539229358779266
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jobster_NN",
+            0.01729928534918004
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jobster_XGB",
+            4.488413196668262e-09
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jobster_GBM",
+            5.59952442326988e-05
+        ]
+    ],
+    "Jowar": [
+        0.21764146608463703,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jowar_SVR",
+            0.25968772878377266
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jowar_POLY",
+            0.3012388082353842
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jowar_NN",
+            0.25095725574664335
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jowar_XGB",
+            0.13120801990357517
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jowar_GBM",
+            0.14511551775380965
+        ]
+    ],
+    "Jute & mesta": [
+        1.6234121963888064,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jute & mesta_SVR",
+            0.07119390618145618
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jute & mesta_NN",
+            0.035733047312813876
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jute & mesta_XGB",
+            0.33585192660210833
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jute & mesta_GBM",
+            0.12444744914538462
+        ]
+    ],
+    "Jute": [
+        8.397181221720034,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jute_XGB",
+            4.190040236057402
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Jute_GBM",
+            3.82889968310512
+        ]
+    ],
+    "Kapas": [
+        0.4699176958350333,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Kapas_SVR",
+            0.40603407451088686
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Kapas_NN",
+            0.01456852661313745
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Kapas_XGB",
+            0.49966315840673553
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Kapas_GBM",
+            0.06010554603313212
+        ]
+    ],
+    "Khesari": [
+        0.08467124509426753,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Khesari_SVR",
+            0.09430970003694218
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Khesari_POLY",
+            0.10291677311579644
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Khesari_NN",
+            0.10169511582578948
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Khesari_XGB",
+            0.06361506526884808
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Khesari_GBM",
+            0.060819571223961456
+        ]
+    ],
+    "Korra": [
+        0.04972886424805213,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Korra_SVR",
+            0.05148453415980489
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Korra_POLY",
+            0.0548349540835646
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Korra_NN",
+            0.06258959745446067
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Korra_XGB",
+            0.031229014663040164
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Korra_GBM",
+            0.04850622087939035
+        ]
+    ],
+    "Lemon": [
+        14.448141657108573,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Lemon_XGB",
+            1.4611462835435929
+        ]
+    ],
+    "Lentil": [
+        0.0346834484242181,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Lentil_SVR",
+            0.022237142268925186
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Lentil_POLY",
+            0.029412669085277437
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Lentil_NN",
+            0.03448421214267608
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Lentil_XGB",
+            0.06541917400877799
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Lentil_GBM",
+            0.02186404461543376
+        ]
+    ],
+    "Linseed": [
+        0.05536421134477808,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Linseed_SVR",
+            0.06054368822912431
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Linseed_POLY",
+            0.07819275413521203
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Linseed_NN",
+            0.05909977252821089
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Linseed_XGB",
+            0.04063042875372573
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Linseed_GBM",
+            0.03835441307761743
+        ]
+    ],
+    "Maize": [
+        15.34860208220383,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Maize_SVR",
+            0.9398209618505556
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Maize_POLY",
+            8.730783040531739
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Maize_XGB",
+            0.5079668573524341
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Maize_GBM",
+            11.550025922442726
+        ]
+    ],
+    "Mango": [
+        9.236993370229044,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Mango_XGB",
+            6.5152777495720375
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Mango_GBM",
+            8.031337722583952
+        ]
+    ],
+    "Masoor": [
+        0.08560757830723752,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Masoor_SVR",
+            0.0996286754458981
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Masoor_POLY",
+            0.111652541437213
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Masoor_NN",
+            0.09932083489290898
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Masoor_XGB",
+            0.05716661117193555
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Masoor_GBM",
+            0.06026922858823198
+        ]
+    ],
+    "Mesta": [
+        5.953428522554531,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Mesta_SVR",
+            5.858686957616028
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Mesta_XGB",
+            3.1887032007715144
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Mesta_GBM",
+            4.0493150162517315
+        ]
+    ],
+    "Moong(Green Gram)": [
+        0.06171274684891968,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moong(Green Gram)_SVR",
+            0.06290839220739465
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moong(Green Gram)_POLY",
+            0.0767635978273207
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moong(Green Gram)_NN",
+            0.06541833695439157
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moong(Green Gram)_XGB",
+            0.04983037770471195
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moong(Green Gram)_GBM",
+            0.053643029550779556
+        ]
+    ],
+    "Moth": [
+        0.03814623937669554,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moth_SVR",
+            0.04004141937181412
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moth_POLY",
+            0.04522979475139992
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moth_NN",
+            0.04602981681751195
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moth_XGB",
+            0.032434888384720806
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Moth_GBM",
+            0.02699527755803091
+        ]
+    ],
+    "Niger seed": [
+        12.517104093562155,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Niger seed_XGB",
+            12.30681252657959
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Niger seed_GBM",
+            12.434459160714468
+        ]
+    ],
+    "Oilseeds total": [
+        0.0870729053161651,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Oilseeds total_SVR",
+            0.0681557319402499
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Oilseeds total_POLY",
+            0.09159512854289299
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Oilseeds total_NN",
+            0.1078943025535171
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Oilseeds total_XGB",
+            0.1045963784353923
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Oilseeds total_GBM",
+            0.06312298510877316
+        ]
+    ],
+    "Onion": [
+        3294.498949229984,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Onion_XGB",
+            3274.8313334385734
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Onion_GBM",
+            3276.273732602918
+        ]
+    ],
+    "Orange": [
+        8.644303708968945,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Orange_SVR",
+            4.760213683320301
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Orange_XGB",
+            6.860540284445315
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Orange_GBM",
+            4.171323723460506
+        ]
+    ],
+    "Other  Rabi pulses": [
+        0.11406208112112307,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other  Rabi pulses_SVR",
+            0.09375629405209769
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other  Rabi pulses_POLY",
+            0.12451836149906927
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other  Rabi pulses_NN",
+            0.11304023986758553
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other  Rabi pulses_XGB",
+            0.13825988094600972
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other  Rabi pulses_GBM",
+            0.10073562924085311
+        ]
+    ],
+    "Other Cereals & Millets": [
+        0.12903308517766668,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Cereals & Millets_SVR",
+            0.1465617218079844
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Cereals & Millets_POLY",
+            0.162628517482797
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Cereals & Millets_NN",
+            0.17044273555793218
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Cereals & Millets_XGB",
+            0.07678749691087615
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Cereals & Millets_GBM",
+            0.08874495412874366
+        ]
+    ],
+    "Other Fresh Fruits": [
+        3.160961980260737,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Fresh Fruits_POLY",
+            3.091284232321616
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Fresh Fruits_XGB",
+            1.6921059579147664
+        ]
+    ],
+    "Other Kharif pulses": [
+        0.06191441643934158,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Kharif pulses_SVR",
+            0.0435808615203478
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Kharif pulses_POLY",
+            0.05232641558102221
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Kharif pulses_NN",
+            0.04650350121254395
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Kharif pulses_XGB",
+            0.11688586946403352
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Kharif pulses_GBM",
+            0.05027543441876042
+        ]
+    ],
+    "other misc": [
+        0.02135333475802793,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other misc_SVR",
+            0.03880115600749244
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other misc_POLY",
+            0.024580222521660044
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other misc_NN",
+            0.010542191199510234
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other misc_XGB",
+            0.005414917966163771
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other misc_GBM",
+            0.027428186095313167
+        ]
+    ],
+    "other oilseeds": [
+        9.361294874136778,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other oilseeds_SVR",
+            8.480069554420858
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other oilseeds_NN",
+            8.344549698004505
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other oilseeds_XGB",
+            9.248519014279072
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/other oilseeds_GBM",
+            6.9150264966725095
+        ]
+    ],
+    "Other Vegetables": [
+        57.78759601758151,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Vegetables_SVR",
+            21.138604556168705
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Vegetables_NN",
+            26.667689598987817
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Vegetables_XGB",
+            2.8686316504771283
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Other Vegetables_GBM",
+            13.138121105586993
+        ]
+    ],
+    "Paddy": [
+        0.31209534451707566,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Paddy_SVR",
+            0.27024998441491066
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Paddy_POLY",
+            0.46317869722305716
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Paddy_NN",
+            0.3760028992239714
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Paddy_XGB",
+            0.20381183267704053
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Paddy_GBM",
+            0.2472333090463984
+        ]
+    ],
+    "Papaya": [
+        442.38230600823397,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Papaya_SVR",
+            202.61464590039137
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Papaya_XGB",
+            411.3292491964916
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Papaya_GBM",
+            256.837686858164
+        ]
+    ],
+    "Peas & beans (Pulses)": [
+        0.7696175018024058,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Peas & beans (Pulses)_SVR",
+            0.8555249771203899
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Peas & beans (Pulses)_POLY",
+            0.9694950263850223
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Peas & beans (Pulses)_NN",
+            0.7724461216862472
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Peas & beans (Pulses)_XGB",
+            0.6961469920902381
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Peas & beans (Pulses)_GBM",
+            0.5544743917301315
+        ]
+    ],
+    "Perilla": [
+        0.00968818699201934,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Perilla_SVR",
+            0.0023684878363109934
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Perilla_POLY",
+            0.0032065571128945818
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Perilla_NN",
+            0.03780555969855856
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Perilla_XGB",
+            0.002216084696581421
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Perilla_GBM",
+            0.002844245615751142
+        ]
+    ],
+    "Pineapple": [
+        6.889115462455658,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pineapple_SVR",
+            3.9699337405667303
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pineapple_POLY",
+            5.253874767540973
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pineapple_XGB",
+            2.9535637375604606
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pineapple_GBM",
+            3.936393537647571
+        ]
+    ],
+    "Pome Fruit": [
+        45.796651713557345,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pome Fruit_XGB",
+            9.481752642117796
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pome Fruit_GBM",
+            32.82382647105488
+        ]
+    ],
+    "Pome Granet": [
+        2.1421935230474896,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pome Granet_SVR",
+            1.0870345084102697
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pome Granet_POLY",
+            0.5945814642327639
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pome Granet_XGB",
+            0.7297723321926326
+        ]
+    ],
+    "Potato": [
+        24.95858908168716,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Potato_XGB",
+            11.878149673503529
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Potato_GBM",
+            12.569686869925686
+        ]
+    ],
+    "Pulses total": [
+        0.09495773632612785,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pulses total_SVR",
+            0.09449105418644074
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pulses total_POLY",
+            0.10282771600909603
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pulses total_NN",
+            0.10935971301661897
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pulses total_XGB",
+            0.08488988522444119
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Pulses total_GBM",
+            0.08322031319404236
+        ]
+    ],
+    "Ragi": [
+        0.21635308198323297,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ragi_SVR",
+            0.22590366694754618
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ragi_POLY",
+            0.31524732056910826
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ragi_NN",
+            0.2356370524937634
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ragi_XGB",
+            0.14886510455075533
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ragi_GBM",
+            0.15611226535499165
+        ]
+    ],
+    "Rajmash Kholar": [
+        0.0037550698156191206,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rajmash Kholar_SVR",
+            0.001148726583016139
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rajmash Kholar_POLY",
+            0.0013830930172876808
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rajmash Kholar_NN",
+            0.014563115560445738
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rajmash Kholar_XGB",
+            0.0007098753019964131
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rajmash Kholar_GBM",
+            0.0009705386153496317
+        ]
+    ],
+    "Rapeseed &Mustard": [
+        0.12998065064944922,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rapeseed &Mustard_SVR",
+            0.13145865153320163
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rapeseed &Mustard_POLY",
+            0.15837133485376523
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rapeseed &Mustard_NN",
+            0.13361558627435705
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rapeseed &Mustard_XGB",
+            0.12785750504832882
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rapeseed &Mustard_GBM",
+            0.09860017553759326
+        ]
+    ],
+    "Redish": [
+        22219.726073104768,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Redish_SVR",
+            0.011674717903432002
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Redish_NN",
+            0.13682040540092844
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Redish_XGB",
+            0.04158904647932313
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Redish_GBM",
+            13.392863738557965
+        ]
+    ],
+    "Rice": [
+        0.5198803913217542,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rice_SVR",
+            0.5020871269550343
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rice_POLY",
+            0.7836181495602622
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rice_NN",
+            0.5344161003505167
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rice_XGB",
+            0.30524181678321594
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rice_GBM",
+            0.4740387629597423
+        ]
+    ],
+    "Ricebean (nagadal)": [
+        0.004132358700361846,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ricebean (nagadal)_SVR",
+            0.00023353295389779395
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ricebean (nagadal)_POLY",
+            0.0016961364606605947
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ricebean (nagadal)_NN",
+            0.018462954522873408
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ricebean (nagadal)_XGB",
+            3.0744609486316664e-05
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Ricebean (nagadal)_GBM",
+            0.00023842495489111067
+        ]
+    ],
+    "Rubber": [
+        0.017902077557202804,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rubber_SVR",
+            0.01768595445123559
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rubber_POLY",
+            0.026519825263335867
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rubber_NN",
+            0.011426204247459897
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rubber_XGB",
+            0.00037672067615379337
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Rubber_GBM",
+            0.033501683147828865
+        ]
+    ],
+    "Safflower": [
+        0.03913848718873597,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Safflower_SVR",
+            0.04017931566697277
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Safflower_POLY",
+            0.04402169102665396
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Safflower_NN",
+            0.04325946771828359
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Safflower_XGB",
+            0.035008779264313214
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Safflower_GBM",
+            0.0332231822674563
+        ]
+    ],
+    "Samai": [
+        0.03468753705737152,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Samai_SVR",
+            0.026614376086869923
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Samai_POLY",
+            0.029151592552881293
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Samai_NN",
+            0.06028017105913682
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Samai_XGB",
+            0.023970711942383417
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Samai_GBM",
+            0.03342083364558615
+        ]
+    ],
+    "Sannhamp": [
+        0.6163882566410691,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sannhamp_SVR",
+            0.5403946062728603
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sannhamp_POLY",
+            0.9670997104943494
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sannhamp_NN",
+            0.5870323697694334
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sannhamp_XGB",
+            0.5841579165996688
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sannhamp_GBM",
+            0.40325668006903354
+        ]
+    ],
+    "Sapota": [
+        3.223911685733877,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sapota_XGB",
+            0.7045204928790713
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sapota_GBM",
+            2.658593045587569
+        ]
+    ],
+    "Sesamum": [
+        0.32775994147432197,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sesamum_SVR",
+            0.029649864555603343
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sesamum_POLY",
+            0.36189131221321374
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sesamum_NN",
+            0.6018131578832419
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sesamum_XGB",
+            0.05612833451968877
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sesamum_GBM",
+            0.5893170381998621
+        ]
+    ],
+    "Small millets": [
+        0.39938870787413533,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Small millets_SVR",
+            0.3641719103132066
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Small millets_POLY",
+            0.3687839265858643
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Small millets_NN",
+            0.3654512971849404
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Small millets_XGB",
+            0.5379440791989972
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Small millets_GBM",
+            0.3605923260876683
+        ]
+    ],
+    "Soyabean": [
+        0.22571983500489318,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Soyabean_SVR",
+            0.24704358912856114
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Soyabean_POLY",
+            0.2762228274674564
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Soyabean_NN",
+            0.25559434330148423
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Soyabean_XGB",
+            0.1737062812494265
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Soyabean_GBM",
+            0.1760321338775377
+        ]
+    ],
+    "Sugarcane": [
+        3119233.856787247,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sugarcane_XGB",
+            572730.5402454006
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sugarcane_GBM",
+            1781910.5184306605
+        ]
+    ],
+    "Sunflower": [
+        0.18835153379918534,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sunflower_SVR",
+            0.13569378173174368
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sunflower_POLY",
+            0.17349646763285603
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sunflower_NN",
+            0.15605142506998768
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sunflower_XGB",
+            0.332118804022607
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sunflower_GBM",
+            0.14439719053873232
+        ]
+    ],
+    "Sweet potato": [
+        6.881776428468738,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sweet potato_XGB",
+            3.006323390874357
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Sweet potato_GBM",
+            3.2992060593889887
+        ]
+    ],
+    "Tapioca": [
+        33.49006219416489,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tapioca_XGB",
+            10.273858980490491
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tapioca_GBM",
+            9.90577692142434
+        ]
+    ],
+    "Tea": [
+        1.642786323890143,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tea_NN",
+            1.19634271392318
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tea_XGB",
+            1.2239572827618619
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tea_GBM",
+            1.5513177948618453
+        ]
+    ],
+    "Tobacco": [
+        0.8557112229906456,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tobacco_SVR",
+            0.8707323582510093
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tobacco_NN",
+            0.7640247586494077
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tobacco_XGB",
+            0.29054494392148145
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tobacco_GBM",
+            0.29917731941030057
+        ]
+    ],
+    "Tomato": [
+        7.619128269648056,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tomato_XGB",
+            4.425269751992637
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Tomato_GBM",
+            5.586926426771411
+        ]
+    ],
+    "Total foodgrain": [
+        0.17289953943484973,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Total foodgrain_SVR",
+            0.11932862549704422
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Total foodgrain_POLY",
+            0.14720648431119915
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Total foodgrain_NN",
+            0.1705884525382006
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Total foodgrain_XGB",
+            0.21160363938197738
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Total foodgrain_GBM",
+            0.21577049544582722
+        ]
+    ],
+    "Turmeric": [
+        2.009383429222735,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Turmeric_XGB",
+            0.8289001317251912
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Turmeric_GBM",
+            0.9335534663870002
+        ]
+    ],
+    "Turnip": [
+        0.010685905823026521,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Turnip_SVR",
+            0.009848003518613872
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Turnip_POLY",
+            1.6888312324106795e-05
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Turnip_NN",
+            0.009987051480679294
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Turnip_XGB",
+            6.610885438558203e-05
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Turnip_GBM",
+            0.03351147694912975
+        ]
+    ],
+    "Urad": [
+        0.10786921681505943,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Urad_SVR",
+            0.10448269390608747
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Urad_POLY",
+            0.11600138367808847
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Urad_NN",
+            0.10612879039043868
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Urad_XGB",
+            0.11574019919565834
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Urad_GBM",
+            0.09699301690502411
+        ]
+    ],
+    "Varagu": [
+        0.09065443939949246,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Varagu_SVR",
+            0.08751320738743636
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Varagu_POLY",
+            0.09444588035732572
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Varagu_NN",
+            0.07204610540743539
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Varagu_XGB",
+            0.10585156187183199
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Varagu_GBM",
+            0.09341544197343281
+        ]
+    ],
+    "Wheat": [
+        0.2795698761508116,
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Wheat_SVR",
+            0.32163706748978
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Wheat_POLY",
+            0.5138308875786017
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Wheat_NN",
+            0.2882126763018688
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Wheat_XGB",
+            0.13158176946202108
+        ],
+        [
+            "D:/SEM 6/ML Project/Implementation/Saved_Model_new/Wheat_GBM",
+            0.14258697992178618
+        ]
+    ]
+}
