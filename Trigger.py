@@ -25,7 +25,7 @@ season = SeasonList[4]
 
 
 #Code to fetch Weather Data on basis of location
-req_f = "http://api.worldweatheronline.com/premium/v1/weather.ashx?key=23199ca3783649b7868111655202505&q="
+req_f = "http://api.worldweatheronline.com/premium/v1/weather.ashx?key=<keyId>&q="
 Lat_Long = str(StateDisList[state][dis][0]) + ',' + str(StateDisList[state][dis][1])
 req_e = "&format=json&mca=yes"
 resp = requests.get(req_f + Lat_Long + req_e)
